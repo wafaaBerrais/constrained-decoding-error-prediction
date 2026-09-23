@@ -1,0 +1,11 @@
+schema_status,phase,n,mean_s,std_s,median_s,p95_s,min_s,max_s
+completed,compile_grammar_s,1014,18.6797,34.6292,1.73405,76.9104,0.05071,238.647
+completed,validation_loop_mean_s,988,0.131855,0.486739,0.071568,0.398515,2.15e-05,14.5742
+completed,compute_mask_mean_s,988,0.0612897,0.226125,0.0334946,0.1852,6.33333e-06,6.76565
+completed,commit_token_mean_s,988,0.0700184,0.257028,0.0380641,0.21264,3.5e-06,7.69374
+completed,timeout_elapsed_s,0,,,,,,
+timeout,compile_grammar_s,0,,,,,,
+timeout,validation_loop_mean_s,0,,,,,,
+timeout,compute_mask_mean_s,0,,,,,,
+timeout,commit_token_mean_s,0,,,,,,
+timeout,timeout_elapsed_s,0,,,,,,

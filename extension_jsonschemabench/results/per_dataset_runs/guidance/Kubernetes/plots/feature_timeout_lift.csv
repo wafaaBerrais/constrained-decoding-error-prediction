@@ -1,0 +1,13 @@
+feature,schemas_with_feature,schemas_without_feature,timeout_with_feature,timeout_without_feature,timeout_rate_with,timeout_rate_without,lift,support,global_timeout_rate
+has_additionalProperties,408,606,0,0,0,0,0,0.402367,0
+has_defs,731,283,0,0,0,0,0,0.720907,0
+has_enum,250,764,0,0,0,0,0,0.246548,0
+has_items,601,413,0,0,0,0,0,0.592702,0
+has_oneOf,239,775,0,0,0,0,0,0.2357,0
+has_properties,1010,4,0,0,0,0,0,0.996055,0
+has_ref,731,283,0,0,0,0,0,0.720907,0
+has_required,807,207,0,0,0,0,0,0.795858,0
+has_type,1014,0,0,0,0,0,0,1,0
+large_enum,1,1013,0,0,0,0,0,0.000986193,0
+many_required,360,654,0,0,0,0,0,0.35503,0
+many_properties,464,550,0,0,0,0,0,0.457594,0

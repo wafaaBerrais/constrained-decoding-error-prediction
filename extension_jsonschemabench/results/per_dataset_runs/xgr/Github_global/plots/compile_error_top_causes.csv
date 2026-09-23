@@ -1,0 +1,6 @@
+cause,schema_count,test_count
+numeric bound: non-integer maximum,13,101
+other compile error,8,48
+boolean false schema,3,7
+regex/string escape unsupported,2,8
+schema node is array,1,3

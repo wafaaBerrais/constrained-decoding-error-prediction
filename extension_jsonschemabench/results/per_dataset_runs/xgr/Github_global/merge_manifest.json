@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-07-22T11:01:00",
+  "framework": "xgr",
+  "global_dataset": "Github_global",
+  "included_datasets": [
+    "Github_easy",
+    "Github_trivial",
+    "Github_medium",
+    "Github_hard",
+    "Github_ultra"
+  ],
+  "excluded_datasets": [],
+  "notes": "Synthetic merged run directory used to generate global GitHub plots.",
+  "files": {
+    "per_test_results.jsonl": 21698,
+    "timed_out_schemas.jsonl": 190,
+    "timing_profile.csv": 23053
+  }
+}

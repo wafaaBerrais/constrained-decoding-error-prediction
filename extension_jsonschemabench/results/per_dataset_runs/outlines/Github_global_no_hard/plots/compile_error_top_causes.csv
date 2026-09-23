@@ -1,0 +1,57 @@
+cause,schema_count,test_count
+unsupported schema structure,97,380
+boolean false schema,95,469
+DFA state limit,51,263
+annotation-only/metadata schema,46,184
+tokenizer/regex incompatible,43,288
+format: path,43,109
+format: topic,24,51
+format: url,23,103
+format: hostname,12,66
+keyword: $ref,10,40
+keyword: patternProperties,9,31
+keyword: not,8,37
+format: uri,8,33
+format: html-selector,5,11
+format: ipv4,4,26
+format: non-blank,4,19
+format: semver,4,11
+format: date-time,3,13
+other compile error,3,7
+format: cidr,3,6
+format: defFile,2,10
+keyword: minProperties,2,10
+format: uri-reference,2,9
+format: country-code,2,7
+format: mongoId,2,7
+format: css-color,2,6
+format: host-name,1,9
+keyword: propertyNames,1,8
+format: ^\d{4}-\d{2}-\d{2}$,1,6
+format: duration,1,6
+format: (\d{2}-(\d{2})-(\d{4})),1,4
+format: chickenbutt,1,4
+format: collection-category,1,4
+format: color,1,4
+format: full-date,1,4
+format: idn-email,1,4
+format: partial-date,1,4
+format: positiveInteger,1,4
+format: regex,1,4
+format: source-category,1,4
+format: animationFile,1,3
+format: code,1,3
+format: feed-onestop-id,1,3
+keyword: anyOf,1,3
+format: bar,1,2
+format: big-integer,1,2
+format: binary,1,2
+format: counter,1,2
+format: date-type,1,2
+format: datetime,1,2
+format: evenlength,1,2
+format: google-datetime,1,2
+format: iri,1,2
+format: sha1,1,2
+keyword: oneOf,1,2
+format: string,1,1

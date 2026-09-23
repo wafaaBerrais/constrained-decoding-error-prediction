@@ -1,0 +1,13 @@
+feature,n_schemas,n_completed_tests,under_rate,over_rate,correct_rate,timeout_rate
+large_enum,1,7,0,1,0.714286,0
+has_enum,250,1230,0,0.835681,0.710569,0
+many_required,360,1657,0,0.809295,0.695232,0
+many_properties,464,2164,0,0.779412,0.7061,0
+has_additionalProperties,408,1950,0,0.721127,0.737436,0
+has_oneOf,239,772,0,0.6675,0.654145,0
+has_items,601,2902,0,0.651515,0.762922,0
+has_defs,731,3364,0,0.586888,0.779132,0
+has_ref,731,3364,0,0.586888,0.779132,0
+has_required,807,3668,0,0.55011,0.794984,0
+has_properties,1010,4579,0,0.506563,0.814588,0
+has_type,1014,4588,0,0.505357,0.814952,0

@@ -1,0 +1,13 @@
+feature,schemas_with_feature,schemas_without_feature,under_with_feature,under_without_feature,under_denominator_with,under_denominator_without,under_rate_with,under_rate_without,lift,delta,support,global_under_rate,eligible_lift
+has_additionalProperties,408,606,0,0,1240,1668,0,0,0,0,0.402367,0,true
+has_defs,731,283,0,0,2098,810,0,0,0,0,0.720907,0,true
+has_enum,250,764,0,0,804,2104,0,0,0,0,0.246548,0,true
+has_items,601,413,0,0,1846,1062,0,0,0,0,0.592702,0,true
+has_oneOf,239,775,0,0,372,2536,0,0,0,0,0.2357,0,true
+has_ref,731,283,0,0,2098,810,0,0,0,0,0.720907,0,true
+has_required,807,207,0,0,2301,607,0,0,0,0,0.795858,0,true
+many_required,360,654,0,0,1033,1875,0,0,0,0,0.35503,0,true
+many_properties,464,550,0,0,1348,1560,0,0,0,0,0.457594,0,true
+has_properties,1010,4,0,0,2903,5,0,0,0,0,0.996055,0,false
+has_type,1014,0,0,0,2908,0,0,0,0,0,1,0,false
+large_enum,1,1013,0,0,5,2903,0,0,0,0,0.000986193,0,false

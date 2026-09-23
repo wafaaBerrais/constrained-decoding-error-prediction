@@ -1,0 +1,12 @@
+context_feature,context_value,support_schemas,support_tests,under_rate,over_rate,baseline_under_rate,baseline_over_rate,under_lift,over_lift,low_support
+instance_satisfies_not_subschema,unknown,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_allOf,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_anyOf,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_const,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_enum,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_pattern,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_properties,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_contains_required,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_parent_keyword,absent,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_sibling_keyword_count_bucket,0,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+not_target_type,absent,1014,4588,0,0.0555798,0,0.0555798,0,1,false

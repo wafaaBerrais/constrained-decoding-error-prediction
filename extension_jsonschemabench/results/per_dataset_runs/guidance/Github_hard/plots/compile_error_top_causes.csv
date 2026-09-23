@@ -1,0 +1,26 @@
+cause,schema_count,test_count
+keyword: patternProperties,109,649
+format: uri,45,234
+keyword: oneOf,33,155
+keyword: minProperties,19,118
+keyword: not,9,60
+keyword: maxProperties,7,42
+keyword: propertyNames,5,34
+format: url,5,29
+regex: lookaround unsupported,5,29
+format: uri-reference,5,26
+keyword: dependencies,4,23
+other compile error,3,15
+format: topic,3,7
+keyword: if,2,14
+keyword: then,2,14
+format: textarea,2,11
+format: ^[0-9]([0-9]){1},1,6
+keyword: else,1,5
+format: html-selector,1,4
+format: regex,1,4
+format: textFile,1,4
+format: ISO,1,3
+format: html,1,3
+format: localization,1,2
+format: path,1,2

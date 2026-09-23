@@ -1,0 +1,10 @@
+context_feature,context_value,support_schemas,support_tests,under_rate,over_rate,baseline_under_rate,baseline_over_rate,under_lift,over_lift,low_support
+additionalProperties_value,absent,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+instance_has_unmatched_keys,false,1005,4404,0,0.0395095,0,0.0555798,0,0.710862,false
+instance_has_unmatched_keys,true,123,184,0,0.440217,0,0.0555798,0,7.92046,false
+instance_matching_pattern_keys_count,0,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+patternProperties_regex_has_alternation,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+patternProperties_regex_has_anchor,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+patternProperties_regex_has_charclass,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+patternProperties_regex_has_dotstar,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false
+patternProperties_with_properties,false,1014,4588,0,0.0555798,0,0.0555798,0,1,false

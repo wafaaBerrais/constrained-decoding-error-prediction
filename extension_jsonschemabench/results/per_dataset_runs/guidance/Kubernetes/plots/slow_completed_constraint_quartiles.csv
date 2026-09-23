@@ -1,0 +1,5 @@
+compile_speed_group,n_schemas,compile_min_s,compile_max_s,under_rate,over_rate,accuracy_completed
+fast,249,0.00032,0.001483,0,0.284987,0.898182
+medium,249,0.001485,0.002098,0,0.342233,0.878762
+slow,249,0.002099,0.003838,0,0.542654,0.807401
+very_slow,249,0.003887,0.056073,0,0.846154,0.663577

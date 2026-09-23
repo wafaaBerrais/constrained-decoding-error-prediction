@@ -1,0 +1,8 @@
+context_feature,context_value,support_schemas,support_tests,under_rate,over_rate,baseline_under_rate,baseline_over_rate,under_lift,over_lift,low_support
+numeric_boundary_case,not_applicable,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+numeric_has_default,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+numeric_has_min_and_max,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+numeric_is_in_properties,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+numeric_parent_keyword,absent,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+numeric_property_required,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+numeric_target_type,absent,1014,4588,0,0.0754141,0,0.0754141,0,1,false

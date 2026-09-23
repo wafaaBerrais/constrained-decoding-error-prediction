@@ -1,0 +1,13 @@
+# Analysis, modeling and notebooks
+# The saved models (.pkl) were trained with scikit-learn 1.9.0: keep this exact version to load them.
+scikit-learn==1.9.0
+lightgbm>=4.6
+joblib>=1.5
+numpy>=2.0
+jsonschema>=4.0
+matplotlib>=3.8
+jupyter>=1.0
+
+# Re-running the constrained-decoding frameworks themselves (Guidance/LLGuidance, Outlines, XGrammar)
+# additionally requires the benchmark's own dependencies, installed after ./setup_benchmark.sh:
+#   pip install -r maskbench/requirements.txt

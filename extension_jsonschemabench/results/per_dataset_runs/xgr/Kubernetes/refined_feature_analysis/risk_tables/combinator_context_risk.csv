@@ -1,0 +1,15 @@
+context_feature,context_value,support_schemas,support_tests,under_rate,over_rate,baseline_under_rate,baseline_over_rate,under_lift,over_lift,low_support
+allOf_satisfied_branch_count_bucket,0,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+anyOf_satisfied_branch_count_bucket,0,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_conflicting_types,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_have_enum,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_have_not,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_have_properties,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_have_required,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_have_same_type,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+branches_overlapping_properties,false,1014,4588,0,0.0754141,0,0.0754141,0,1,false
+combinator_branch_count_bucket,0,775,3816,0,0.0754717,0,0.0754141,0,1.00076,false
+combinator_branch_count_bucket,2,239,772,0,0.0751295,0,0.0754141,0,0.996226,false
+combinator_type,absent,775,3816,0,0.0754717,0,0.0754141,0,1.00076,false
+combinator_type,oneOf,239,772,0,0.0751295,0,0.0754141,0,0.996226,false
+oneOf_satisfied_branch_count_bucket,0,1014,4588,0,0.0754141,0,0.0754141,0,1,false

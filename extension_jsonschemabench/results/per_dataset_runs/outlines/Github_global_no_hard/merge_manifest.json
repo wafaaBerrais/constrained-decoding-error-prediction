@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-07-22T11:01:01",
+  "framework": "outlines",
+  "global_dataset": "Github_global_no_hard",
+  "included_datasets": [
+    "Github_easy",
+    "Github_trivial",
+    "Github_medium",
+    "Github_ultra"
+  ],
+  "excluded_datasets": [
+    "Github_hard"
+  ],
+  "notes": "Synthetic merged run directory used to generate global GitHub plots.",
+  "files": {
+    "per_test_results.jsonl": 17325,
+    "timed_out_schemas.jsonl": 121,
+    "timeout_checkpoints.jsonl": 4072,
+    "timing_profile.csv": 18154,
+    "schema_compile_profile.csv": 4074
+  }
+}

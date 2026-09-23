@@ -1,0 +1,28 @@
+# Benchmark data downloaded by ./setup_benchmark.sh (not our work, see README)
+/data/
+/maskbench/
+/maskbench.tar.gz
+
+# Raw per-test runs (too large for GitHub; regenerate with the run_* scripts)
+extension_jsonschemabench/results/**/*.jsonl
+extension_jsonschemabench/results/**/*.log
+
+# Outputs written by the notebooks when regeneration options are enabled
+extension_jsonschemabench/notebook_outputs/
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.hf_cache/
+
+# OS / editors / temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.tmp
+.nfs*
