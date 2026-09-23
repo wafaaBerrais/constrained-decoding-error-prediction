@@ -105,8 +105,8 @@ The benchmark itself (`data/`, `maskbench/`) isn't copied into this repository. 
 ## Getting started
 
 ```bash
-git clone https://github.com/wafaaBerrais/stageM1.git
-cd stageM1
+git clone https://github.com/wafaaBerrais/constrained-decoding-error-prediction.git
+cd constrained-decoding-error-prediction
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
