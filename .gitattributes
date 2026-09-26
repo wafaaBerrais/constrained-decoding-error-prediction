@@ -6,3 +6,6 @@
 # Binary artifacts
 *.pkl binary
 *.pptx binary
+
+# Notebooks only display results: don't count them in GitHub's language stats
+*.ipynb linguist-documentation
